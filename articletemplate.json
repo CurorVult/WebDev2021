@@ -1,0 +1,30 @@
+{
+	"articles":[
+	{
+		"image" : "/assets/redbridgescene.jpg",
+		"title": "This Week in Review",
+		"text":"Summery of this weeks games, including the finale of the Kohlhurst Murder case, the death of major underworld figure Mister Brandywine and the induction of a new Watchtower 16 squad."
+	},
+	
+	{
+		"image" :"/assets/namithumb.png",
+		"title":"Player Spotlight",
+		"text":"Each month, we highlight one of our player charactors based on the input and voting of our GMs, this week our featured PC is Nami played by Moon "
+	},
+	
+	
+	{
+		"image" :"/assets/theater.jpg"
+		"title":"Sample Article",
+		"text":	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+	},
+	
+	{
+		"image" :"/assets/theater.jpg"
+		"title":"Sample Article",
+		"text":	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+	}
+	]
+}
